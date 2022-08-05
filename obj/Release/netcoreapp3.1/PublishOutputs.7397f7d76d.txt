@@ -1,0 +1,6 @@
+D:\C#\Deploy_Inventory\Inventory.exe
+D:\C#\Deploy_Inventory\Inventory.dll
+D:\C#\Deploy_Inventory\Inventory.deps.json
+D:\C#\Deploy_Inventory\Inventory.runtimeconfig.json
+D:\C#\Deploy_Inventory\Inventory.pdb
+D:\C#\Deploy_Inventory\CsvHelper.dll

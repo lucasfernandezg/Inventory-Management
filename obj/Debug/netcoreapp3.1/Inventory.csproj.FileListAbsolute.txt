@@ -1,0 +1,16 @@
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.AssemblyReference.cache
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+D:\C#\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+D:\C#\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+D:\C#\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+D:\C#\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+D:\C#\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+D:\C#\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+D:\C#\Inventory\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\C#\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
